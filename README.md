@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0677-map-sum-pairs](https://github.com/Mohamedjasim1/LC/tree/master/0677-map-sum-pairs) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohamedjasim1/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Graph
 |  |
@@ -24,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohamedjasim1/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Hash Table
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/Mohamedjasim1/LC/tree/master/0677-map-sum-pairs) |
+## Design
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/Mohamedjasim1/LC/tree/master/0677-map-sum-pairs) |
+## Trie
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/Mohamedjasim1/LC/tree/master/0677-map-sum-pairs) |
 <!---LeetCode Topics End-->
