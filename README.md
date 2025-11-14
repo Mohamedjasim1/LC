@@ -38,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/Mohamedjasim1/LC/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
 | [1294-range-frequency-queries](https://github.com/Mohamedjasim1/LC/tree/master/1294-range-frequency-queries) |
+| [2778-frequency-tracker](https://github.com/Mohamedjasim1/LC/tree/master/2778-frequency-tracker) |
 ## Design
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/Mohamedjasim1/LC/tree/master/0677-map-sum-pairs) |
 | [1294-range-frequency-queries](https://github.com/Mohamedjasim1/LC/tree/master/1294-range-frequency-queries) |
+| [2778-frequency-tracker](https://github.com/Mohamedjasim1/LC/tree/master/2778-frequency-tracker) |
 ## Trie
 |  |
 | ------- |
