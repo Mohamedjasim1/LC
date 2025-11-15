@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohamedjasim1/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mohamedjasim1/LC/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
 | [1294-range-frequency-queries](https://github.com/Mohamedjasim1/LC/tree/master/1294-range-frequency-queries) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohamedjasim1/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1294-range-frequency-queries](https://github.com/Mohamedjasim1/LC/tree/master/1294-range-frequency-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mohamedjasim1/LC/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## String
