@@ -3,7 +3,7 @@ class Solution {
         
         int i=1;
         // int sum=0;
-        while(i<10001){
+        while(true){
             int sum=i;
             int count=0;
             for(int n:nums){
@@ -21,6 +21,6 @@ class Solution {
 
             // i++;
         }
-        return -1;
+        // return -1;
     }
 }
