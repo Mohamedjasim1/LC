@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohamedjasim1/LC/tree/master/0357-count-numbers-with-unique-digits) |
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Mohamedjasim1/LC/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
+| [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Mohamedjasim1/LC/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Mohamedjasim1/LC/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Mohamedjasim1/LC/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 ## Math
