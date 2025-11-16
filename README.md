@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/Mohamedjasim1/LC/tree/master/1333-sort-the-jumbled-numbers) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mohamedjasim1/LC/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohamedjasim1/LC/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohamedjasim1/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mohamedjasim1/LC/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Search
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mohamedjasim1/LC/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohamedjasim1/LC/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Dynamic Programming
 |  |
 | ------- |
