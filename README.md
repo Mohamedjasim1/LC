@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohamedjasim1/LC/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohamedjasim1/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Mohamedjasim1/LC/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+| [3373-maximum-prime-difference](https://github.com/Mohamedjasim1/LC/tree/master/3373-maximum-prime-difference) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mohamedjasim1/LC/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Search
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Mohamedjasim1/LC/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Mohamedjasim1/LC/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
+| [3373-maximum-prime-difference](https://github.com/Mohamedjasim1/LC/tree/master/3373-maximum-prime-difference) |
 ## Combinatorics
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Mohamedjasim1/LC/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+## Number Theory
+|  |
+| ------- |
+| [3373-maximum-prime-difference](https://github.com/Mohamedjasim1/LC/tree/master/3373-maximum-prime-difference) |
 <!---LeetCode Topics End-->
