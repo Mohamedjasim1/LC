@@ -9,7 +9,7 @@ class Solution {
             if(bits[i]==1){
                 i+=1;
             }else{
-                System.out.println(i);
+                // System.out.println(i);
                  if(i==bits.length-1)return true;
                 // i++;
             }
