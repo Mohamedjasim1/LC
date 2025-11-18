@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohamedjasim1/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mohamedjasim1/LC/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0553-optimal-division](https://github.com/Mohamedjasim1/LC/tree/master/0553-optimal-division) |
 | [0665-non-decreasing-array](https://github.com/Mohamedjasim1/LC/tree/master/0665-non-decreasing-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mohamedjasim1/LC/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohamedjasim1/LC/tree/master/0357-count-numbers-with-unique-digits) |
+| [0553-optimal-division](https://github.com/Mohamedjasim1/LC/tree/master/0553-optimal-division) |
 | [0868-push-dominoes](https://github.com/Mohamedjasim1/LC/tree/master/0868-push-dominoes) |
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Mohamedjasim1/LC/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Mohamedjasim1/LC/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohamedjasim1/LC/tree/master/0357-count-numbers-with-unique-digits) |
+| [0553-optimal-division](https://github.com/Mohamedjasim1/LC/tree/master/0553-optimal-division) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Mohamedjasim1/LC/tree/master/0592-fraction-addition-and-subtraction) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mohamedjasim1/LC/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Mohamedjasim1/LC/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
