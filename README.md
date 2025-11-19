@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohamedjasim1/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0307-range-sum-query-mutable](https://github.com/Mohamedjasim1/LC/tree/master/0307-range-sum-query-mutable) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mohamedjasim1/LC/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mohamedjasim1/LC/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Mohamedjasim1/LC/tree/master/0592-fraction-addition-and-subtraction) |
 | [0677-map-sum-pairs](https://github.com/Mohamedjasim1/LC/tree/master/0677-map-sum-pairs) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0677-map-sum-pairs](https://github.com/Mohamedjasim1/LC/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
 | [1294-range-frequency-queries](https://github.com/Mohamedjasim1/LC/tree/master/1294-range-frequency-queries) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0677-map-sum-pairs](https://github.com/Mohamedjasim1/LC/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
 ## Sorting
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohamedjasim1/LC/tree/master/0357-count-numbers-with-unique-digits) |
 | [0553-optimal-division](https://github.com/Mohamedjasim1/LC/tree/master/0553-optimal-division) |
 | [0868-push-dominoes](https://github.com/Mohamedjasim1/LC/tree/master/0868-push-dominoes) |
@@ -158,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mohamedjasim1/LC/tree/master/0307-range-sum-query-mutable) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
