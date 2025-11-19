@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohamedjasim1/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0307-range-sum-query-mutable](https://github.com/Mohamedjasim1/LC/tree/master/0307-range-sum-query-mutable) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mohamedjasim1/LC/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0553-optimal-division](https://github.com/Mohamedjasim1/LC/tree/master/0553-optimal-division) |
 | [0665-non-decreasing-array](https://github.com/Mohamedjasim1/LC/tree/master/0665-non-decreasing-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Mohamedjasim1/LC/tree/master/0307-range-sum-query-mutable) |
 | [0677-map-sum-pairs](https://github.com/Mohamedjasim1/LC/tree/master/0677-map-sum-pairs) |
 | [1294-range-frequency-queries](https://github.com/Mohamedjasim1/LC/tree/master/1294-range-frequency-queries) |
 | [2778-frequency-tracker](https://github.com/Mohamedjasim1/LC/tree/master/2778-frequency-tracker) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Mohamedjasim1/LC/tree/master/0307-range-sum-query-mutable) |
 | [1294-range-frequency-queries](https://github.com/Mohamedjasim1/LC/tree/master/1294-range-frequency-queries) |
 ## Two Pointers
 |  |
@@ -147,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3373-maximum-prime-difference](https://github.com/Mohamedjasim1/LC/tree/master/3373-maximum-prime-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Mohamedjasim1/LC/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Mohamedjasim1/LC/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
