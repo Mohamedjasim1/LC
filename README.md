@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mohamedjasim1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohamedjasim1/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0307-range-sum-query-mutable](https://github.com/Mohamedjasim1/LC/tree/master/0307-range-sum-query-mutable) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mohamedjasim1/LC/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mohamedjasim1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohamedjasim1/LC/tree/master/0357-count-numbers-with-unique-digits) |
 | [0553-optimal-division](https://github.com/Mohamedjasim1/LC/tree/master/0553-optimal-division) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Mohamedjasim1/LC/tree/master/0592-fraction-addition-and-subtraction) |
@@ -197,5 +199,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mohamedjasim1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohamedjasim1/LC/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
