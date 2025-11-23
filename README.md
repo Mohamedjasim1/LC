@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
 | [1127-last-stone-weight](https://github.com/Mohamedjasim1/LC/tree/master/1127-last-stone-weight) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1294-range-frequency-queries](https://github.com/Mohamedjasim1/LC/tree/master/1294-range-frequency-queries) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Mohamedjasim1/LC/tree/master/1333-sort-the-jumbled-numbers) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohamedjasim1/LC/tree/master/1441-build-an-array-with-stack-operations) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mohamedjasim1/LC/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Mohamedjasim1/LC/tree/master/1333-sort-the-jumbled-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mohamedjasim1/LC/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Segment Tree
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohamedjasim1/LC/tree/master/0357-count-numbers-with-unique-digits) |
 | [0553-optimal-division](https://github.com/Mohamedjasim1/LC/tree/master/0553-optimal-division) |
 | [0868-push-dominoes](https://github.com/Mohamedjasim1/LC/tree/master/0868-push-dominoes) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Mohamedjasim1/LC/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Mohamedjasim1/LC/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Mohamedjasim1/LC/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Mohamedjasim1/LC/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Mohamedjasim1/LC/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Enumeration
