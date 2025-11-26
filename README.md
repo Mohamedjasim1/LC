@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mohamedjasim1/LC/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mohamedjasim1/LC/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mohamedjasim1/LC/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohamedjasim1/LC/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Mohamedjasim1/LC/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Mohamedjasim1/LC/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Mohamedjasim1/LC/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Mohamedjasim1/LC/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
