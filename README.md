@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohamedjasim1/LC/tree/master/1441-build-an-array-with-stack-operations) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mohamedjasim1/LC/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mohamedjasim1/LC/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Mohamedjasim1/LC/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mohamedjasim1/LC/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1294-range-frequency-queries](https://github.com/Mohamedjasim1/LC/tree/master/1294-range-frequency-queries) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Mohamedjasim1/LC/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mohamedjasim1/LC/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
 | [2778-frequency-tracker](https://github.com/Mohamedjasim1/LC/tree/master/2778-frequency-tracker) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Mohamedjasim1/LC/tree/master/1333-sort-the-jumbled-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Mohamedjasim1/LC/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mohamedjasim1/LC/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Segment Tree
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Mohamedjasim1/LC/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Mohamedjasim1/LC/tree/master/2094-finding-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mohamedjasim1/LC/tree/master/1018-binary-prefix-divisible-by-5) |
+## Recursion
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Mohamedjasim1/LC/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
