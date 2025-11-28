@@ -17,7 +17,7 @@ class Solution {
         set.clear();
         int count=0;
         for(int i=0;i<map.size();i++){
-            set.add(i);
+            // set.add(i);
             // if(store.get())
             int prev=-1;
             boolean flag=true;
