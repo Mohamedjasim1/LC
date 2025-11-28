@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mohamedjasim1/LC/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [3249-count-the-number-of-good-nodes](https://github.com/Mohamedjasim1/LC/tree/master/3249-count-the-number-of-good-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -240,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [3249-count-the-number-of-good-nodes](https://github.com/Mohamedjasim1/LC/tree/master/3249-count-the-number-of-good-nodes) |
 <!---LeetCode Topics End-->
