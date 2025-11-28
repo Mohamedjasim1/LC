@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/Mohamedjasim1/LC/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
 | [0868-push-dominoes](https://github.com/Mohamedjasim1/LC/tree/master/0868-push-dominoes) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohamedjasim1/LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mohamedjasim1/LC/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Mohamedjasim1/LC/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamedjasim1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohamedjasim1/LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohamedjasim1/LC/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bit Manipulation
 |  |
