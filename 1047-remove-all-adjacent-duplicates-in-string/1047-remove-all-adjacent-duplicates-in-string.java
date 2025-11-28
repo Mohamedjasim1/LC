@@ -12,11 +12,11 @@ class Solution {
             }
         }
 
-        String res="";
+        StringBuilder res=new StringBuilder();
         while(!stack.isEmpty()){
-            res=stack.pop()+res;
+            res.insert(0,stack.pop());
         }
 
-        return res;
+        return res.toString();
     }
 }
