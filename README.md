@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamedjasim1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mohamedjasim1/LC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0307-range-sum-query-mutable](https://github.com/Mohamedjasim1/LC/tree/master/0307-range-sum-query-mutable) |
+| [0472-concatenated-words](https://github.com/Mohamedjasim1/LC/tree/master/0472-concatenated-words) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mohamedjasim1/LC/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0553-optimal-division](https://github.com/Mohamedjasim1/LC/tree/master/0553-optimal-division) |
 | [0665-non-decreasing-array](https://github.com/Mohamedjasim1/LC/tree/master/0665-non-decreasing-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mohamedjasim1/LC/tree/master/0140-word-break-ii) |
+| [0472-concatenated-words](https://github.com/Mohamedjasim1/LC/tree/master/0472-concatenated-words) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mohamedjasim1/LC/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Mohamedjasim1/LC/tree/master/0592-fraction-addition-and-subtraction) |
 | [0677-map-sum-pairs](https://github.com/Mohamedjasim1/LC/tree/master/0677-map-sum-pairs) |
@@ -95,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mohamedjasim1/LC/tree/master/0140-word-break-ii) |
+| [0472-concatenated-words](https://github.com/Mohamedjasim1/LC/tree/master/0472-concatenated-words) |
 | [0677-map-sum-pairs](https://github.com/Mohamedjasim1/LC/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
 ## Sorting
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/Mohamedjasim1/LC/tree/master/0472-concatenated-words) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mohamedjasim1/LC/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mohamedjasim1/LC/tree/master/0140-word-break-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohamedjasim1/LC/tree/master/0357-count-numbers-with-unique-digits) |
+| [0472-concatenated-words](https://github.com/Mohamedjasim1/LC/tree/master/0472-concatenated-words) |
 | [0553-optimal-division](https://github.com/Mohamedjasim1/LC/tree/master/0553-optimal-division) |
 | [0868-push-dominoes](https://github.com/Mohamedjasim1/LC/tree/master/0868-push-dominoes) |
 | [0931-minimum-falling-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0931-minimum-falling-path-sum) |
@@ -216,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/Mohamedjasim1/LC/tree/master/0472-concatenated-words) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mohamedjasim1/LC/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
