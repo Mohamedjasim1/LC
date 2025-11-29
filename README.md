@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/Mohamedjasim1/LC/tree/master/0665-non-decreasing-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mohamedjasim1/LC/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Mohamedjasim1/LC/tree/master/0892-surface-area-of-3d-shapes) |
 | [0931-minimum-falling-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mohamedjasim1/LC/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohamedjasim1/LC/tree/master/0357-count-numbers-with-unique-digits) |
 | [0553-optimal-division](https://github.com/Mohamedjasim1/LC/tree/master/0553-optimal-division) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Mohamedjasim1/LC/tree/master/0592-fraction-addition-and-subtraction) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Mohamedjasim1/LC/tree/master/0892-surface-area-of-3d-shapes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mohamedjasim1/LC/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Mohamedjasim1/LC/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/Mohamedjasim1/LC/tree/master/0892-surface-area-of-3d-shapes) |
 | [0931-minimum-falling-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [3249-count-the-number-of-good-nodes](https://github.com/Mohamedjasim1/LC/tree/master/3249-count-the-number-of-good-nodes) |
+## Geometry
+|  |
+| ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/Mohamedjasim1/LC/tree/master/0892-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
