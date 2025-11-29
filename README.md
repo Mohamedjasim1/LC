@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohamedjasim1/LC/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Mohamedjasim1/LC/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Mohamedjasim1/LC/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Mohamedjasim1/LC/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Mohamedjasim1/LC/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Mohamedjasim1/LC/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
 ## Math
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Mohamedjasim1/LC/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Stack
 |  |
 | ------- |
