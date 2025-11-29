@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohamedjasim1/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/Mohamedjasim1/LC/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3373-maximum-prime-difference](https://github.com/Mohamedjasim1/LC/tree/master/3373-maximum-prime-difference) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mohamedjasim1/LC/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Search
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Mohamedjasim1/LC/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3373-maximum-prime-difference](https://github.com/Mohamedjasim1/LC/tree/master/3373-maximum-prime-difference) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Combinatorics
 |  |
 | ------- |
