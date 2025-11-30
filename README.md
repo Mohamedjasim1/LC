@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0687-longest-univalue-path](https://github.com/Mohamedjasim1/LC/tree/master/0687-longest-univalue-path) |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mohamedjasim1/LC/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Mohamedjasim1/LC/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mohamedjasim1/LC/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [3249-count-the-number-of-good-nodes](https://github.com/Mohamedjasim1/LC/tree/master/3249-count-the-number-of-good-nodes) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0687-longest-univalue-path](https://github.com/Mohamedjasim1/LC/tree/master/0687-longest-univalue-path) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mohamedjasim1/LC/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Mohamedjasim1/LC/tree/master/1376-time-needed-to-inform-all-employees) |
 | [3249-count-the-number-of-good-nodes](https://github.com/Mohamedjasim1/LC/tree/master/3249-count-the-number-of-good-nodes) |
 ## Geometry
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Mohamedjasim1/LC/tree/master/0099-recover-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0687-longest-univalue-path](https://github.com/Mohamedjasim1/LC/tree/master/0687-longest-univalue-path) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mohamedjasim1/LC/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Sliding Window
 |  |
 | ------- |
