@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mohamedjasim1/LC/tree/master/0140-word-break-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohamedjasim1/LC/tree/master/0357-count-numbers-with-unique-digits) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Mohamedjasim1/LC/tree/master/0099-recover-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0472-concatenated-words](https://github.com/Mohamedjasim1/LC/tree/master/0472-concatenated-words) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Mohamedjasim1/LC/tree/master/0099-recover-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [3249-count-the-number-of-good-nodes](https://github.com/Mohamedjasim1/LC/tree/master/3249-count-the-number-of-good-nodes) |
 ## Geometry
@@ -279,4 +282,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Mohamedjasim1/LC/tree/master/0099-recover-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
