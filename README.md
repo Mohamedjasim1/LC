@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Mohamedjasim1/LC/tree/master/0099-recover-binary-search-tree) |
 | [0472-concatenated-words](https://github.com/Mohamedjasim1/LC/tree/master/0472-concatenated-words) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
@@ -263,10 +264,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Mohamedjasim1/LC/tree/master/0099-recover-binary-search-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [3249-count-the-number-of-good-nodes](https://github.com/Mohamedjasim1/LC/tree/master/3249-count-the-number-of-good-nodes) |
 ## Geometry
 |  |
 | ------- |
 | [0892-surface-area-of-3d-shapes](https://github.com/Mohamedjasim1/LC/tree/master/0892-surface-area-of-3d-shapes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Mohamedjasim1/LC/tree/master/0099-recover-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Mohamedjasim1/LC/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
