@@ -1,6 +1,10 @@
 class Solution {
+
+    Integer[][] dp; 
     public int findTargetSumWays(int[] nums, int target) {
         
+
+        dp=new Integer[nums.length+1][target+2005];
         return dfs(0,0,target,nums);
 
     }
@@ -14,6 +18,9 @@ class Solution {
             return 0;
         }
 
+        int temp=cur>=0?cur:(-1*cur+1000);
+        if(dp[i][temp]!=null)return dp[i][temp];
+
         // if(cur>(2*target) || cur<(-2*target))return 0;
 
         int sum=dfs(i+1,cur+nums[i],target,nums);
@@ -21,6 +28,8 @@ class Solution {
         int sub=dfs(i+1,cur-nums[i],target,nums);
 
 
-        return sum+sub;
+
+
+        return dp[i][temp]=sum+sub;
     }
 }
