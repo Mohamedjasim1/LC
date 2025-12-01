@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mohamedjasim1/LC/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Mohamedjasim1/LC/tree/master/0040-combination-sum-ii) |
 | [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mohamedjasim1/LC/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamedjasim1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mohamedjasim1/LC/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Mohamedjasim1/LC/tree/master/0040-combination-sum-ii) |
 | [0140-word-break-ii](https://github.com/Mohamedjasim1/LC/tree/master/0140-word-break-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohamedjasim1/LC/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Mohamedjasim1/LC/tree/master/0494-target-sum) |
