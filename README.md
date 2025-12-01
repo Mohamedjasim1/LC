@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Mohamedjasim1/LC/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mohamedjasim1/LC/tree/master/1971-find-if-path-exists-in-graph) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohamedjasim1/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mohamedjasim1/LC/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Mohamedjasim1/LC/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mohamedjasim1/LC/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mohamedjasim1/LC/tree/master/1971-find-if-path-exists-in-graph) |
 | [3249-count-the-number-of-good-nodes](https://github.com/Mohamedjasim1/LC/tree/master/3249-count-the-number-of-good-nodes) |
 ## Breadth-First Search
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Mohamedjasim1/LC/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mohamedjasim1/LC/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mohamedjasim1/LC/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -311,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mohamedjasim1/LC/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Union Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mohamedjasim1/LC/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
