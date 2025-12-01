@@ -12,7 +12,7 @@ class Solution {
         if(target%2!=0)return false;
 
         target/=2;
-        dp=new Boolean[target+1][nums.length+1];
+        dp=new Boolean[nums.length+1][target+1];
 
         return dfs(0,target,nums);
         
@@ -25,13 +25,13 @@ class Solution {
 
         if(tar<0)return false;
 
-        if(dp[tar][i]!=null)return dp[tar][i];
+        if(dp[i][tar]!=null)return dp[i][tar];
 
        for(int j=i;j<nums.length;j++){
-            if(dfs(j+1,tar-nums[j],nums))return dp[tar][i]=true;
+            if(dfs(j+1,tar-nums[j],nums))return dp[i][tar]=true;
        }
 
-        return dp[tar][i]=false;
+        return dp[i][tar]=false;
 
     }
 }
