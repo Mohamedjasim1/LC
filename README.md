@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mohamedjasim1/LC/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0553-optimal-division](https://github.com/Mohamedjasim1/LC/tree/master/0553-optimal-division) |
 | [0665-non-decreasing-array](https://github.com/Mohamedjasim1/LC/tree/master/0665-non-decreasing-array) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Mohamedjasim1/LC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mohamedjasim1/LC/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Mohamedjasim1/LC/tree/master/0892-surface-area-of-3d-shapes) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Mohamedjasim1/LC/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Mohamedjasim1/LC/tree/master/0494-target-sum) |
 | [0553-optimal-division](https://github.com/Mohamedjasim1/LC/tree/master/0553-optimal-division) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Mohamedjasim1/LC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0868-push-dominoes](https://github.com/Mohamedjasim1/LC/tree/master/0868-push-dominoes) |
 | [0931-minimum-falling-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0931-minimum-falling-path-sum) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Mohamedjasim1/LC/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohamedjasim1/LC/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Mohamedjasim1/LC/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Mohamedjasim1/LC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mohamedjasim1/LC/tree/master/0140-word-break-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Mohamedjasim1/LC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Mohamedjasim1/LC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mohamedjasim1/LC/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Recursion
 |  |
@@ -318,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohamedjasim1/LC/tree/master/1971-find-if-path-exists-in-graph) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Mohamedjasim1/LC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
