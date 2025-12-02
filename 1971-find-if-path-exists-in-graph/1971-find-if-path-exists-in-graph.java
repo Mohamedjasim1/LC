@@ -22,24 +22,20 @@ class Solution {
         Queue<Integer> q=new LinkedList<>();
 
         q.add(s);
+        vis[s]=true;
         
-
         while(!q.isEmpty()){
 
-            
-
             int curNode=q.poll();
-            if(vis[curNode])continue;
-            vis[curNode]=true;
 
             if(d==curNode)return true;
 
             for(int node:graph.get(curNode)){
+                if(vis[node])continue;
                 q.add(node);
+                vis[node]=true;
             }
-
         }
-
         return false;
     }
 }
