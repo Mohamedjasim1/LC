@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mohamedjasim1/LC/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1048-longest-string-chain](https://github.com/Mohamedjasim1/LC/tree/master/1048-longest-string-chain) |
 | [1127-last-stone-weight](https://github.com/Mohamedjasim1/LC/tree/master/1127-last-stone-weight) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1294-range-frequency-queries](https://github.com/Mohamedjasim1/LC/tree/master/1294-range-frequency-queries) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
 | [0868-push-dominoes](https://github.com/Mohamedjasim1/LC/tree/master/0868-push-dominoes) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohamedjasim1/LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1048-longest-string-chain](https://github.com/Mohamedjasim1/LC/tree/master/1048-longest-string-chain) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mohamedjasim1/LC/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mohamedjasim1/LC/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Mohamedjasim1/LC/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/Mohamedjasim1/LC/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1048-longest-string-chain](https://github.com/Mohamedjasim1/LC/tree/master/1048-longest-string-chain) |
 | [1294-range-frequency-queries](https://github.com/Mohamedjasim1/LC/tree/master/1294-range-frequency-queries) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohamedjasim1/LC/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mohamedjasim1/LC/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Mohamedjasim1/LC/tree/master/0472-concatenated-words) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mohamedjasim1/LC/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0720-longest-word-in-dictionary](https://github.com/Mohamedjasim1/LC/tree/master/0720-longest-word-in-dictionary) |
+| [1048-longest-string-chain](https://github.com/Mohamedjasim1/LC/tree/master/1048-longest-string-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Mohamedjasim1/LC/tree/master/1333-sort-the-jumbled-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohamedjasim1/LC/tree/master/2094-finding-3-digit-even-numbers) |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mohamedjasim1/LC/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0868-push-dominoes](https://github.com/Mohamedjasim1/LC/tree/master/0868-push-dominoes) |
+| [1048-longest-string-chain](https://github.com/Mohamedjasim1/LC/tree/master/1048-longest-string-chain) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohamedjasim1/LC/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 ## Dynamic Programming
 |  |
@@ -150,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mohamedjasim1/LC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0868-push-dominoes](https://github.com/Mohamedjasim1/LC/tree/master/0868-push-dominoes) |
 | [0931-minimum-falling-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/Mohamedjasim1/LC/tree/master/1048-longest-string-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Mohamedjasim1/LC/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Mohamedjasim1/LC/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
