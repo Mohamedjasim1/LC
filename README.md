@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Mohamedjasim1/LC/tree/master/2211-count-collisions-on-a-road) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Mohamedjasim1/LC/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Mohamedjasim1/LC/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohamedjasim1/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Graph
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mohamedjasim1/LC/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Mohamedjasim1/LC/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Mohamedjasim1/LC/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/Mohamedjasim1/LC/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3373-maximum-prime-difference](https://github.com/Mohamedjasim1/LC/tree/master/3373-maximum-prime-difference) |
@@ -213,12 +215,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Mohamedjasim1/LC/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Mohamedjasim1/LC/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Mohamedjasim1/LC/tree/master/2844-minimum-operations-to-make-a-special-number) |
 ## Enumeration
 |  |
 | ------- |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mohamedjasim1/LC/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Mohamedjasim1/LC/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohamedjasim1/LC/tree/master/2094-finding-3-digit-even-numbers) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Mohamedjasim1/LC/tree/master/2844-minimum-operations-to-make-a-special-number) |
 ## Prefix Sum
 |  |
 | ------- |
