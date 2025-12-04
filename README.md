@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Mohamedjasim1/LC/tree/master/1048-longest-string-chain) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mohamedjasim1/LC/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mohamedjasim1/LC/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2211-count-collisions-on-a-road](https://github.com/Mohamedjasim1/LC/tree/master/2211-count-collisions-on-a-road) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Mohamedjasim1/LC/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohamedjasim1/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Mohamedjasim1/LC/tree/master/0592-fraction-addition-and-subtraction) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohamedjasim1/LC/tree/master/1441-build-an-array-with-stack-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/Mohamedjasim1/LC/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mohamedjasim1/LC/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Greedy
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamedjasim1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohamedjasim1/LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohamedjasim1/LC/tree/master/1441-build-an-array-with-stack-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/Mohamedjasim1/LC/tree/master/2211-count-collisions-on-a-road) |
 ## Bit Manipulation
 |  |
 | ------- |
