@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Mohamedjasim1/LC/tree/master/0547-number-of-provinces) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Mohamedjasim1/LC/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohamedjasim1/LC/tree/master/1971-find-if-path-exists-in-graph) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohamedjasim1/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Mohamedjasim1/LC/tree/master/0099-recover-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0472-concatenated-words](https://github.com/Mohamedjasim1/LC/tree/master/0472-concatenated-words) |
+| [0547-number-of-provinces](https://github.com/Mohamedjasim1/LC/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0687-longest-univalue-path](https://github.com/Mohamedjasim1/LC/tree/master/0687-longest-univalue-path) |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Mohamedjasim1/LC/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Mohamedjasim1/LC/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Mohamedjasim1/LC/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Mohamedjasim1/LC/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohamedjasim1/LC/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bitmask
 |  |
