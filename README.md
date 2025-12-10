@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohamedjasim1/LC/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Mohamedjasim1/LC/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
+| [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Mohamedjasim1/LC/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Mohamedjasim1/LC/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohamedjasim1/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Mohamedjasim1/LC/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Mohamedjasim1/LC/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
+| [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Mohamedjasim1/LC/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 ## Math
 |  |
 | ------- |
