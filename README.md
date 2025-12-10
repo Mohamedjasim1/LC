@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximum-prime-difference](https://github.com/Mohamedjasim1/LC/tree/master/3373-maximum-prime-difference) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mohamedjasim1/LC/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Mohamedjasim1/LC/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mohamedjasim1/LC/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Search
 |  |
@@ -205,10 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximum-prime-difference](https://github.com/Mohamedjasim1/LC/tree/master/3373-maximum-prime-difference) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mohamedjasim1/LC/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Mohamedjasim1/LC/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Combinatorics
 |  |
 | ------- |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Mohamedjasim1/LC/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Mohamedjasim1/LC/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Backtracking
 |  |
 | ------- |
@@ -377,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Mohamedjasim1/LC/tree/master/1977-number-of-ways-to-separate-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Mohamedjasim1/LC/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
