@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Mohamedjasim1/LC/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mohamedjasim1/LC/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Mohamedjasim1/LC/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mohamedjasim1/LC/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mohamedjasim1/LC/tree/master/0140-word-break-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Mohamedjasim1/LC/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mohamedjasim1/LC/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/Mohamedjasim1/LC/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Mohamedjasim1/LC/tree/master/0097-interleaving-string) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Mohamedjasim1/LC/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mohamedjasim1/LC/tree/master/0055-jump-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Mohamedjasim1/LC/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
