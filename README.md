@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Mohamedjasim1/LC/tree/master/1333-sort-the-jumbled-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohamedjasim1/LC/tree/master/2094-finding-3-digit-even-numbers) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Mohamedjasim1/LC/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mohamedjasim1/LC/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Segment Tree
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mohamedjasim1/LC/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mohamedjasim1/LC/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/Mohamedjasim1/LC/tree/master/1925-count-square-sum-triples) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/Mohamedjasim1/LC/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Mohamedjasim1/LC/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Mohamedjasim1/LC/tree/master/2844-minimum-operations-to-make-a-special-number) |
