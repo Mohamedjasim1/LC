@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/Mohamedjasim1/LC/tree/master/0892-surface-area-of-3d-shapes) |
 | [0931-minimum-falling-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
+| [0946-validate-stack-sequences](https://github.com/Mohamedjasim1/LC/tree/master/0946-validate-stack-sequences) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mohamedjasim1/LC/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1048-longest-string-chain](https://github.com/Mohamedjasim1/LC/tree/master/1048-longest-string-chain) |
 | [1127-last-stone-weight](https://github.com/Mohamedjasim1/LC/tree/master/1127-last-stone-weight) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Mohamedjasim1/LC/tree/master/0592-fraction-addition-and-subtraction) |
+| [0946-validate-stack-sequences](https://github.com/Mohamedjasim1/LC/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/Mohamedjasim1/LC/tree/master/1006-clumsy-factorial) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohamedjasim1/LC/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Mohamedjasim1/LC/tree/master/1929-concatenation-of-array) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamedjasim1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0946-validate-stack-sequences](https://github.com/Mohamedjasim1/LC/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/Mohamedjasim1/LC/tree/master/1006-clumsy-factorial) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohamedjasim1/LC/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohamedjasim1/LC/tree/master/1441-build-an-array-with-stack-operations) |
