@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Mohamedjasim1/LC/tree/master/1127-last-stone-weight) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1294-range-frequency-queries](https://github.com/Mohamedjasim1/LC/tree/master/1294-range-frequency-queries) |
+| [1306-jump-game-iii](https://github.com/Mohamedjasim1/LC/tree/master/1306-jump-game-iii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Mohamedjasim1/LC/tree/master/1333-sort-the-jumbled-numbers) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohamedjasim1/LC/tree/master/1441-build-an-array-with-stack-operations) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mohamedjasim1/LC/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Mohamedjasim1/LC/tree/master/0733-flood-fill) |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mohamedjasim1/LC/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1306-jump-game-iii](https://github.com/Mohamedjasim1/LC/tree/master/1306-jump-game-iii) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Mohamedjasim1/LC/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mohamedjasim1/LC/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohamedjasim1/LC/tree/master/1971-find-if-path-exists-in-graph) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0733-flood-fill](https://github.com/Mohamedjasim1/LC/tree/master/0733-flood-fill) |
 | [0934-shortest-bridge](https://github.com/Mohamedjasim1/LC/tree/master/0934-shortest-bridge) |
+| [1306-jump-game-iii](https://github.com/Mohamedjasim1/LC/tree/master/1306-jump-game-iii) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Mohamedjasim1/LC/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/Mohamedjasim1/LC/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohamedjasim1/LC/tree/master/1971-find-if-path-exists-in-graph) |
