@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Mohamedjasim1/LC/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Mohamedjasim1/LC/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohamedjasim1/LC/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Mohamedjasim1/LC/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1294-range-frequency-queries](https://github.com/Mohamedjasim1/LC/tree/master/1294-range-frequency-queries) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohamedjasim1/LC/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mohamedjasim1/LC/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Mohamedjasim1/LC/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
 | [2778-frequency-tracker](https://github.com/Mohamedjasim1/LC/tree/master/2778-frequency-tracker) |
 ## Design
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Mohamedjasim1/LC/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Mohamedjasim1/LC/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Mohamedjasim1/LC/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Mohamedjasim1/LC/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Mohamedjasim1/LC/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
@@ -405,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Mohamedjasim1/LC/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Counting
+|  |
+| ------- |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Mohamedjasim1/LC/tree/master/2547-minimum-cost-to-split-an-array) |
 <!---LeetCode Topics End-->
