@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Mohamedjasim1/LC/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0472-concatenated-words](https://github.com/Mohamedjasim1/LC/tree/master/0472-concatenated-words) |
 | [0547-number-of-provinces](https://github.com/Mohamedjasim1/LC/tree/master/0547-number-of-provinces) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/Mohamedjasim1/LC/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Mohamedjasim1/LC/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Mohamedjasim1/LC/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0687-longest-univalue-path](https://github.com/Mohamedjasim1/LC/tree/master/0687-longest-univalue-path) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Mohamedjasim1/LC/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0687-longest-univalue-path](https://github.com/Mohamedjasim1/LC/tree/master/0687-longest-univalue-path) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Mohamedjasim1/LC/tree/master/1026-maximum-difference-between-node-and-ancestor) |
