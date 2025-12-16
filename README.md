@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Mohamedjasim1/LC/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Mohamedjasim1/LC/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mohamedjasim1/LC/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/Mohamedjasim1/LC/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mohamedjasim1/LC/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamedjasim1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mohamedjasim1/LC/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0079-word-search](https://github.com/Mohamedjasim1/LC/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Mohamedjasim1/LC/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Mohamedjasim1/LC/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Mohamedjasim1/LC/tree/master/0115-distinct-subsequences) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Mohamedjasim1/LC/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mohamedjasim1/LC/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Mohamedjasim1/LC/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/Mohamedjasim1/LC/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Mohamedjasim1/LC/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohamedjasim1/LC/tree/master/0357-count-numbers-with-unique-digits) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mohamedjasim1/LC/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/Mohamedjasim1/LC/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohamedjasim1/LC/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0112-path-sum) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mohamedjasim1/LC/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/Mohamedjasim1/LC/tree/master/0733-flood-fill) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Mohamedjasim1/LC/tree/master/0892-surface-area-of-3d-shapes) |
 | [0931-minimum-falling-path-sum](https://github.com/Mohamedjasim1/LC/tree/master/0931-minimum-falling-path-sum) |
