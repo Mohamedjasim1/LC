@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mohamedjasim1/LC/tree/master/0547-number-of-provinces) |
+| [1615-maximal-network-rank](https://github.com/Mohamedjasim1/LC/tree/master/1615-maximal-network-rank) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Mohamedjasim1/LC/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mohamedjasim1/LC/tree/master/1971-find-if-path-exists-in-graph) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Mohamedjasim1/LC/tree/master/3235-minimum-cost-to-convert-string-i) |
