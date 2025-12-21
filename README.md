@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Mohamedjasim1/LC/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohamedjasim1/LC/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/Mohamedjasim1/LC/tree/master/0377-combination-sum-iv) |
+| [0397-integer-replacement](https://github.com/Mohamedjasim1/LC/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohamedjasim1/LC/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Mohamedjasim1/LC/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/Mohamedjasim1/LC/tree/master/0494-target-sum) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Mohamedjasim1/LC/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mohamedjasim1/LC/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/Mohamedjasim1/LC/tree/master/0397-integer-replacement) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Mohamedjasim1/LC/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Mohamedjasim1/LC/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mohamedjasim1/LC/tree/master/0140-word-break-ii) |
+| [0397-integer-replacement](https://github.com/Mohamedjasim1/LC/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mohamedjasim1/LC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Heap (Priority Queue)
 |  |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Mohamedjasim1/LC/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mohamedjasim1/LC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mohamedjasim1/LC/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Recursion
