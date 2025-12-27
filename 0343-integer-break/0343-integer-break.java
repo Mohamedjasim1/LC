@@ -1,22 +1,27 @@
 class Solution {
+
+    Integer[] dp;
     public int integerBreak(int n) {
-        dfs(n,n);
-        return 0;
+
+        // if(n==2)return 1;
+        dp=new Integer[n+1];
+        
+        return helper(n);
+        // return Math.max(Math.max(helper(x)*helper(y),helper(x-1)*helper(y+1)));              
     }
 
-    public int dfs(int cur,int n){
+    public int helper(int n){
 
-        if(cur<0)return 0;
+        if(dp[n]!=null)return dp[n];
+        if(n<=3)return n-1;
 
-        if(cur==0){
-            System.out.println(1);
-            return 0;
-        };
+        int max=0;
 
-        for(int i=1;i<n;i++){
-            dfs(cur-i,n);
+        for(int i=1;i<=n;i++){
+            max=Math.max(max,Math.max(i*(n-i),i*helper(n-i)));
         }
 
-        return 1;
+        return dp[n]=max;
+        
     }
 }
