@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Mohamedjasim1/LC/tree/master/0006-zigzag-conversion) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mohamedjasim1/LC/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0079-word-search](https://github.com/Mohamedjasim1/LC/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Mohamedjasim1/LC/tree/master/0091-decode-ways) |
