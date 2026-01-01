@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Mohamedjasim1/LC/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Mohamedjasim1/LC/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mohamedjasim1/LC/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Mohamedjasim1/LC/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Mohamedjasim1/LC/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mohamedjasim1/LC/tree/master/0140-word-break-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Mohamedjasim1/LC/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamedjasim1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0343-integer-break](https://github.com/Mohamedjasim1/LC/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohamedjasim1/LC/tree/master/0357-count-numbers-with-unique-digits) |
