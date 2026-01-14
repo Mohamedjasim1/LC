@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Mohamedjasim1/LC/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/Mohamedjasim1/LC/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mohamedjasim1/LC/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0079-word-search](https://github.com/Mohamedjasim1/LC/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Mohamedjasim1/LC/tree/master/0091-decode-ways) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mohamedjasim1/LC/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Mohamedjasim1/LC/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Mohamedjasim1/LC/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/Mohamedjasim1/LC/tree/master/0091-decode-ways) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mohamedjasim1/LC/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Mohamedjasim1/LC/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mohamedjasim1/LC/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Mohamedjasim1/LC/tree/master/0079-word-search) |
