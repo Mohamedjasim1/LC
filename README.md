@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Mohamedjasim1/LC/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Mohamedjasim1/LC/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Mohamedjasim1/LC/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/Mohamedjasim1/LC/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/Mohamedjasim1/LC/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Mohamedjasim1/LC/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mohamedjasim1/LC/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Mohamedjasim1/LC/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mohamedjasim1/LC/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Mohamedjasim1/LC/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/Mohamedjasim1/LC/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/Mohamedjasim1/LC/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Mohamedjasim1/LC/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mohamedjasim1/LC/tree/master/0357-count-numbers-with-unique-digits) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Mohamedjasim1/LC/tree/master/0090-subsets-ii) |
 | [0397-integer-replacement](https://github.com/Mohamedjasim1/LC/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mohamedjasim1/LC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mohamedjasim1/LC/tree/master/1018-binary-prefix-divisible-by-5) |
