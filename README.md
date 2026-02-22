@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Mohamedjasim1/LC/tree/master/0090-subsets-ii) |
 | [0397-integer-replacement](https://github.com/Mohamedjasim1/LC/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mohamedjasim1/LC/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0868-binary-gap](https://github.com/Mohamedjasim1/LC/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mohamedjasim1/LC/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Recursion
 |  |
