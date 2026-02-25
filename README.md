@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1294-range-frequency-queries](https://github.com/Mohamedjasim1/LC/tree/master/1294-range-frequency-queries) |
 | [1306-jump-game-iii](https://github.com/Mohamedjasim1/LC/tree/master/1306-jump-game-iii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Mohamedjasim1/LC/tree/master/1333-sort-the-jumbled-numbers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohamedjasim1/LC/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Mohamedjasim1/LC/tree/master/1390-four-divisors) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Mohamedjasim1/LC/tree/master/1441-build-an-array-with-stack-operations) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Mohamedjasim1/LC/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Mohamedjasim1/LC/tree/master/1048-longest-string-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mohamedjasim1/LC/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Mohamedjasim1/LC/tree/master/1333-sort-the-jumbled-numbers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohamedjasim1/LC/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohamedjasim1/LC/tree/master/2094-finding-3-digit-even-numbers) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Mohamedjasim1/LC/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mohamedjasim1/LC/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Mohamedjasim1/LC/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0868-binary-gap](https://github.com/Mohamedjasim1/LC/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mohamedjasim1/LC/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohamedjasim1/LC/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohamedjasim1/LC/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Mohamedjasim1/LC/tree/master/2547-minimum-cost-to-split-an-array) |
 ## Bucket Sort
 |  |
