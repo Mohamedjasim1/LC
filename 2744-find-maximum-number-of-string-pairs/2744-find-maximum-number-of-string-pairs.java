@@ -25,7 +25,7 @@ class Solution {
             s+=word.charAt(i);
         }
 
-        System.out.println(s);
+        // System.out.println(s);
 
         return s;
 
