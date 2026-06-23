@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-minimum-cost-to-split-an-array](https://github.com/Mohamedjasim1/LC/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohamedjasim1/LC/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Mohamedjasim1/LC/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Mohamedjasim1/LC/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Mohamedjasim1/LC/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Mohamedjasim1/LC/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Mohamedjasim1/LC/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2211-count-collisions-on-a-road](https://github.com/Mohamedjasim1/LC/tree/master/2211-count-collisions-on-a-road) |
 | [2511-partition-string-into-substrings-with-values-at-most-k](https://github.com/Mohamedjasim1/LC/tree/master/2511-partition-string-into-substrings-with-values-at-most-k) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Mohamedjasim1/LC/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Mohamedjasim1/LC/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mohamedjasim1/LC/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohamedjasim1/LC/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mohamedjasim1/LC/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Mohamedjasim1/LC/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Mohamedjasim1/LC/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
 | [2778-frequency-tracker](https://github.com/Mohamedjasim1/LC/tree/master/2778-frequency-tracker) |
 ## Design
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Mohamedjasim1/LC/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Mohamedjasim1/LC/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mohamedjasim1/LC/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Mohamedjasim1/LC/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Greedy
 |  |
 | ------- |
