@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mohamedjasim1/LC/tree/master/0021-merge-two-sorted-lists) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mohamedjasim1/LC/tree/master/2094-finding-3-digit-even-numbers) |
 ## Tree
 |  |
@@ -489,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mohamedjasim1/LC/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mohamedjasim1/LC/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
