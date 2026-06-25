@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mohamedjasim1/LC/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Mohamedjasim1/LC/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mohamedjasim1/LC/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mohamedjasim1/LC/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Mohamedjasim1/LC/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Mohamedjasim1/LC/tree/master/2755-extra-characters-in-a-string) |
 | [2778-frequency-tracker](https://github.com/Mohamedjasim1/LC/tree/master/2778-frequency-tracker) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mohamedjasim1/LC/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mohamedjasim1/LC/tree/master/0307-range-sum-query-mutable) |
 | [1294-range-frequency-queries](https://github.com/Mohamedjasim1/LC/tree/master/1294-range-frequency-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mohamedjasim1/LC/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/Mohamedjasim1/LC/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/Mohamedjasim1/LC/tree/master/2270-number-of-ways-to-split-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mohamedjasim1/LC/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mohamedjasim1/LC/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mohamedjasim1/LC/tree/master/0307-range-sum-query-mutable) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mohamedjasim1/LC/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -467,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mohamedjasim1/LC/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Mohamedjasim1/LC/tree/master/2547-minimum-cost-to-split-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mohamedjasim1/LC/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -479,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Mohamedjasim1/LC/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mohamedjasim1/LC/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
